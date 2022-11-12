@@ -1,0 +1,4 @@
+Green - #1DB954
+Black - #191414
+Black - #121212
+Black highlight- #1a1a1a
